@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context="com.kanayo.anyline.OcrScannerActivity"
+  android:id="@+id/anyline_ocr_scanner_container"
+  android:layout_gravity="center_horizontal|top"
+  android:layout_weight=".7">
+
+  <at.nineyards.anyline.modules.ocr.AnylineOcrScanView
+      android:id="@+id/anyline_ocr_scannner_view"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      />
+
+
+</FrameLayout>
+
