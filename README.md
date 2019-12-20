@@ -9,6 +9,8 @@ cd src
 npm run demo-angular.android
 ```
 
+Currently configuried to scan Chinese ID cards:  https://plaridel.files.wordpress.com/2012/10/boss-id.jpg?w=300&h=208
+
 ## Installation
 
 Describe your plugin installation steps. Ideally it would be something like:
