@@ -13,8 +13,6 @@ Currently configuried to scan Chinese ID cards:  https://plaridel.files.wordpres
 
 ## Installation
 
-Describe your plugin installation steps. Ideally it would be something like:
-
 ```javascript
 tns plugin add nativescript-anyline-ocr
 ```
